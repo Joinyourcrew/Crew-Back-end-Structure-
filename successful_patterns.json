@@ -1,0 +1,72 @@
+[
+  {
+    "mint": "2KK4YMi24Tqo6tDn8mzYWkNdGjG3ufdXBjmLv7Fapump",
+    "smart_wallet_ratio": 0.12,
+    "whale_ratio": 0.07,
+    "avg_amount": 540000000,
+    "bundle_detected": 1,
+    "burst_window_count": 7,
+    "burst_max": 18,
+    "buyer_count": 91
+  },
+  {
+    "mint": "6MQpbiTC2YcogidTmKqMLK82qvE9z5QEm7EP3AEDpump",
+    "smart_wallet_ratio": 0.10,
+    "whale_ratio": 0.05,
+    "avg_amount": 510000000,
+    "bundle_detected": 1,
+    "burst_window_count": 6,
+    "burst_max": 14,
+    "buyer_count": 79
+  },
+  {
+    "mint": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+    "smart_wallet_ratio": 0.13,
+    "whale_ratio": 0.09,
+    "avg_amount": 560000000,
+    "bundle_detected": 1,
+    "burst_window_count": 7,
+    "burst_max": 21,
+    "buyer_count": 88
+  },
+  {
+    "mint": "Dd2T3apN8Vc1GRr8oPkCpnkNu3ykvKDcFt1AEk8ypump",
+    "smart_wallet_ratio": 0.11,
+    "whale_ratio": 0.06,
+    "avg_amount": 495000000,
+    "bundle_detected": 1,
+    "burst_window_count": 6,
+    "burst_max": 16,
+    "buyer_count": 74
+  },
+  {
+    "mint": "BsfhyL5JpnWEFBKTBx8xhQdAZvLM6pdgRSGXGURcpump",
+    "smart_wallet_ratio": 0.15,
+    "whale_ratio": 0.10,
+    "avg_amount": 580000000,
+    "bundle_detected": 1,
+    "burst_window_count": 8,
+    "burst_max": 20,
+    "buyer_count": 95
+  },
+  {
+    "mint": "6LYqVzVfqpjVT2dEJqpJG7C4eBNoy3tTTk1u7a4Mpump",
+    "smart_wallet_ratio": 0.12,
+    "whale_ratio": 0.07,
+    "avg_amount": 525000000,
+    "bundle_detected": 1,
+    "burst_window_count": 5,
+    "burst_max": 13,
+    "buyer_count": 68
+  },
+  {
+    "mint": "7arX3kM4KurhFVxDe3ZL8SjspT6PC4A6zaXKVfuQbbCt",
+    "smart_wallet_ratio": 0.09,
+    "whale_ratio": 0.04,
+    "avg_amount": 490000000,
+    "bundle_detected": 1,
+    "burst_window_count": 6,
+    "burst_max": 12,
+    "buyer_count": 62
+  }
+]
